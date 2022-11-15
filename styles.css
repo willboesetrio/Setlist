@@ -19,6 +19,7 @@
   touch-action: manipulation;
   white-space: nowrap;
   cursor: pointer;
+  margin: 5px;
 }
 
 .button-64:active,
